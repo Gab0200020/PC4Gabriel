@@ -10,3 +10,4 @@ namespace EcommerceML.Models
         public int UserId { get; set; }
     }
 }
+//Recommendation
