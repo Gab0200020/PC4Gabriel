@@ -10,3 +10,4 @@ namespace EcommerceML.Models
         public string Opinion { get; set; }
     }
 }
+//Sentiment
